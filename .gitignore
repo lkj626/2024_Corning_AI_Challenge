@@ -1,0 +1,10 @@
+*.zip
+*.gguf
+*.pdf
+
+vectorstore/
+vectorstore2/
+vectorstore_2/
+download/
+files/
+query_files/
